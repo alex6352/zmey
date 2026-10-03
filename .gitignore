@@ -1,4 +1,4 @@
-node_modules/
+snakenode_modules/
 .next/
 dist/
 build/
