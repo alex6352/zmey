@@ -1,5 +1,2 @@
-snakenode_modules/
-.next/
-dist/
-build/
-*.log
+# Compiled/Binary files
+snake_sdl
